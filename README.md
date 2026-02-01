@@ -2,7 +2,7 @@
 -  I trade the financial markets using an array of technical indicators.
 - 
 - 👀 I’m interested in identifying and testing new and unique market metrics to continually improve my trading edge.
-- 🌱 I’m currently learning python and leveraging LLMs to help do so. 
+- 🌱 I’m learning python and occasionally publish if something seems like it could be usefull to others. 
  
 - 📫 How to reach me 
 
